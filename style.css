@@ -1,0 +1,13 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#mycanvas
+{
+   border-style:ridge;
+   background-image: url(BirthdayImage.jpg);
+   border-color: deeppink;
+}
+
